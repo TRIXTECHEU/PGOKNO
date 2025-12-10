@@ -162,7 +162,7 @@ button.vfrc-button[label="Cancel"]:hover {
 /* 4) CHATBOT BACKGROUND */
 /* 4.1) Chatbot background */
 :is(.vfrc-chat, .s9t60i1, .vfrc-chat__dialog) {
-  background-image: url("./background-pgokna.jpg") !important;
+  background-image: url("https://trixtecheu.github.io/PGOKNO/background-pgokna.jpg") !important;
   background-size: cover !important;
   background-repeat: no-repeat !important;
   background-color: transparent !important;
